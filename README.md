@@ -1,4 +1,4 @@
 # Tic-tac-toe-Game
-This Tic-Tac-Toe game is made using HTML, CSS, and JavaScript
+This Tic-Tac-Toe game is made using HTML, CSS, and JavaScript.
 <br>
-Author-Sampa Barui
+Author-Sampa Barui.
